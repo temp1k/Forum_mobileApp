@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/add_friend_button.xml" value="0.135" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/delete_friend_button.xml" value="0.135" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/edit_text_style.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/ic_friends_24.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/ic_main_24.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/ic_profile_24.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/drawable/search_button_style.xml" value="0.1375" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_autorization.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_create_topic.xml" value="0.22" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/activity_topic.xml" value="0.25" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/fragment_friends.xml" value="0.1" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/fragment_topics.xml" value="0.33" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/fragment_your_profile.xml" value="0.16" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/friend_item.xml" value="0.22" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/message_item.xml" value="0.25" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/topic_item.xml" value="0.33" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/topic_item_short.xml" value="0.25" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/layout/user_item.xml" value="0.67" />
+        <entry key="..\:/Users/gnusa/AndroidStudioProjects/Forum/app/src/main/res/menu/bottom_navigation.xml" value="0.11196581196581197" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
